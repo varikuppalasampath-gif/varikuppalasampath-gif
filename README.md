@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm V. Sampath</h1>
-
-<h3 align="center">
-Java Full Stack Developer • React.js • Python • MS SQL
-</h3>
+<h1 align="center">👋 Hi, I'm V. Sampath</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <strong>Java Full Stack Developer • React.js • Python • MS SQL</strong>
+  </marquee>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
