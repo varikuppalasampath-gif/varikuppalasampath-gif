@@ -1,193 +1,294 @@
-👋 Hi, I'm V. Sampath
+<h1 align="center">Hi 👋, I'm V. Sampath</h1>
 
-🚀 Java Full Stack Developer | React.js | Python | MS SQL
+<h3 align="center">
+Java Full Stack Developer • React.js • Python • MS SQL
+</h3>
 
-I'm a Full Stack Developer with 5+ years of professional experience in designing, developing, and maintaining scalable web applications, enterprise systems, REST APIs, and database-driven applications.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I specialize in Java Full Stack Development, with hands-on experience across backend development, frontend development, database management, API integration, automation, and application deployment.
+---
+
+## 👨‍💻 About Me
+
+<p>
+I'm a <strong>Full Stack Developer with 5+ years of professional experience</strong>
+in designing, developing and maintaining scalable web applications,
+enterprise systems, REST APIs and database-driven applications.
+</p>
+
+<p>
+My primary expertise is in <strong>Java Full Stack Development</strong>,
+with strong hands-on experience in <strong>React.js, Python and Microsoft SQL Server</strong>.
+I enjoy building complete solutions from database design and backend APIs
+to modern frontend interfaces.
+</p>
 
 ---
 
-👨‍💻 About Me
+## 🚀 Professional Expertise
 
-- 💼 5+ years of professional software development experience
-- ☕ Strong experience in Java & Full Stack Development
-- ⚛️ Frontend development using React.js
-- 🐍 Backend development and automation using Python
-- 🗄️ Database development using Microsoft SQL Server
-- 🌐 Experience building RESTful APIs and web applications
-- 📱 Experience with Android application development
-- 🔧 Strong understanding of application integration, debugging, and troubleshooting
-- 📊 Experience working with data-driven applications and SQL queries
-- 🚀 Interested in AI, automation, cloud technologies, and modern software architecture
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Backend Development
+
+- Java
+- Spring Boot
+- Java Servlets
+- REST APIs
+- Python
+- API Integration
+- Authentication & Authorization
+- Enterprise Applications
+
+</td>
+
+<td width="50%">
+
+### 🌐 Frontend Development
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Responsive UI
+- Dashboard Development
+- Data Visualization
+- Modern Web Applications
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🗄️ Database Development
+
+- Microsoft SQL Server
+- MySQL
+- Database Design
+- Complex SQL Queries
+- Stored Procedures
+- Data Processing
+- Performance Optimization
+
+</td>
+
+<td>
+
+### ⚙️ Development & Automation
+
+- Git & GitHub
+- Maven
+- Gradle
+- Python Automation
+- Selenium
+- Android Development
+- Scheduled Jobs
+- System Integration
+
+</td>
+</tr>
+</table>
 
 ---
+
 ## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+<h3>Programming Languages</h3>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white"/>
+</p>
 
-### 🌐 Frontend Technologies
+<h3>Frontend</h3>
 
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### ⚙️ Backend & Frameworks
+<h3>Backend</h3>
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/Java%20Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java%20Servlets-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### 🗄️ Database
+<h3>Database</h3>
 
-![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### 🔧 Tools & Technologies
+<h3>Tools & Platforms</h3>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
----
-
-🏗️ What I Build
-
-I enjoy building complete applications from database to user interface, including:
-
-- 🔹 Enterprise Web Applications
-- 🔹 Java Full Stack Applications
-- 🔹 React.js Dashboards
-- 🔹 RESTful APIs
-- 🔹 Database-driven Applications
-- 🔹 Android Applications
-- 🔹 Automation Tools
-- 🔹 Data Processing Applications
-- 🔹 API Integrations
-- 🔹 Reporting & Analytics Systems
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
 
 ---
 
-📌 Featured Technologies
+## 🏗️ Featured Projects
 
-Backend        → Java | Spring Boot | Servlets | Python
-Frontend       → React.js | JavaScript | HTML | CSS
-Database       → MS SQL Server | MySQL
-API            → REST APIs | JSON | API Integration
-Mobile         → Android | Java
-Tools          → Git | GitHub | Maven | Gradle
-Automation     → Python | Selenium | Scheduled Jobs
-Development    → Full Stack | Database | System Integration
+<table>
+<tr>
+<td width="50%">
 
----
+<h3>🔹 ReLife Matrimony</h3>
 
-🚀 Current Interests
+<p>
+A modern second-marriage matrimonial platform designed
+with a focus on privacy, subscriptions and secure profile
+management.
+</p>
 
-I'm continuously exploring and improving my skills in:
+<p>
+<strong>Tech:</strong><br>
+Next.js • React • TypeScript • Node.js • PostgreSQL • Prisma • AWS
+</p>
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Generative AI & AI-powered Applications
-- ☁️ Cloud Computing
-- 🐳 Docker & Containerization
-- 🔄 CI/CD & DevOps
-- 🏗️ Scalable System Architecture
-- ⚡ Modern React & Next.js
-- 🔐 Application & API Security
-- 📊 Data Engineering & Automation
+</td>
 
----
+<td width="50%">
 
-📂 Featured Projects
+<h3>🔹 Location Tracking System</h3>
 
-🔹 ReLife Matrimony
+<p>
+Location-based application integrating Android and web
+technologies for request management, tracking and
+visualization.
+</p>
 
-A modern Second Marriage Matrimony Portal designed to connect individuals looking for meaningful second-marriage relationships.
+<p>
+<strong>Tech:</strong><br>
+Java • Android • Java Servlets • MS SQL • REST APIs
+</p>
 
-Technologies:
+</td>
+</tr>
 
-"Next.js" "React" "TypeScript" "Node.js" "PostgreSQL" "Prisma" "AWS S3" "Razorpay" "UPI"
+<tr>
+<td>
 
----
+<h3>🔹 Request Tracking System</h3>
 
-🔹 Location Tracking System
+<p>
+Enterprise web application for managing and tracking
+different types of requests through database-driven workflows.
+</p>
 
-A location-based application integrating Android and web technologies for location request management, tracking, and visualization.
+<p>
+<strong>Tech:</strong><br>
+Java • Servlets • JavaScript • MS SQL Server
+</p>
 
-Technologies:
+</td>
 
-"Java" "Android" "Java Servlets" "MS SQL Server" "REST APIs" "Google Maps"
+<td>
 
----
+<h3>🔹 Newspaper Automation System</h3>
 
-🔹 Request Tracking System
+<p>
+Automation platform for downloading, organizing, compressing
+and uploading daily newspaper editions.
+</p>
 
-A web-based request management system designed for tracking and processing different types of requests with database-driven workflows.
+<p>
+<strong>Tech:</strong><br>
+Python • Selenium • Automation • File Processing
+</p>
 
-Technologies:
-
-"Java" "Servlets" "JavaScript" "MS SQL Server" "REST APIs"
-
----
-
-🔹 Newspaper Automation System
-
-An automated system for downloading, organizing, generating ZIP archives, and uploading daily newspaper editions.
-
-Technologies:
-
-"Python" "Web Automation" "Selenium" "File Processing" "ZIP Automation" "Google Drive"
-
----
-
-📈 Development Philosophy
-
-«"Build it clean. Make it scalable. Automate what can be automated."»
-
-I believe good software should be:
-
-- ✅ Reliable
-- ✅ Maintainable
-- ✅ Scalable
-- ✅ Secure
-- ✅ User-friendly
-- ✅ Well documented
-- ✅ Easy to extend
+</td>
+</tr>
+</table>
 
 ---
 
-🤝 Let's Connect
+## 🤖 Currently Exploring
 
-I'm interested in collaborating on:
+<p align="center">
 
-- Open-source projects
-- Full-stack applications
-- Java & React projects
-- Python automation
-- AI-powered applications
-- Enterprise software solutions
-- Cloud and DevOps projects
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+</p>
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="180"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Contribution
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Development Philosophy
+
+<blockquote>
+<strong>Build it clean. Make it scalable. Automate what can be automated.</strong>
+</blockquote>
+
+<p>
+I believe good software should be reliable, maintainable, scalable,
+secure and easy to extend.
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sampath-varikuppala-9566802b0/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<strong>Java • React.js • Python • MS SQL • Full Stack • AI • Automation</strong>
+</p>
+
+<p align="center">
 ⭐ Thanks for visiting my profile!
-
-If you find my projects useful, feel free to ⭐ star the repositories and connect with me.
-
-Java • React.js • Python • SQL • Full Stack • AI • Automation
+</p>
