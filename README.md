@@ -2,8 +2,12 @@
 <h1 align="center">👋 Hi, I'm V. Sampath</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React.js+Developer;Python+Developer;MS+SQL+Developer;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0E75B6&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer+%E2%80%A2+React.js+%E2%80%A2+Python+%E2%80%A2+MS+SQL&repeat=false"
+    alt="Java Full Stack Developer • React.js • Python • MS SQL"
+  />
 </p>
+
 
 <p align="center">
   <strong>5+ Years of Professional Software Development Experience</strong>
